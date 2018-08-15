@@ -9,6 +9,6 @@ Animation in Pure CSS3 and HTML5
 https://codepen.io/poziomq/pen/NbjZpG</p>
 
 
-If you are interested in seeing my other works, I invite you to visit my wiki:
-https://jonnybanana.github.io/wiki.html
+<p>If you are interested in seeing my other works, I invite you to visit my wiki:
+https://jonnybanana.github.io/wiki.html</p>
 
