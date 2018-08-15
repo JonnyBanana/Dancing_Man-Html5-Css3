@@ -8,9 +8,11 @@ Animation in Pure CSS3 and HTML5
 <p>For this animation I started from this project:
 https://codepen.io/poziomq/pen/NbjZpG</p>
 
-The code is (fairly) responsive and fits discretely well with every type of screen and device.
-Browser Compatibility:
-Chrome, Opera, Mozilla
+<p>The code is (fairly) responsive and fits discretely well with every type of screen and device.<p>
+
+
+<h3>Browser Compatibility:</h3>
+<p>Chrome, Opera, Mozilla</p>
 
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
 https://jonnybanana.github.io/wiki.html</p>
