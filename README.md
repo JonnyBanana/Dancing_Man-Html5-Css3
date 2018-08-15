@@ -7,7 +7,7 @@ Animation in Pure CSS3 and HTML5
 <p>For this animation I started from this project:
 https://codepen.io/poziomq/pen/NbjZpG</p>
 
-<p>The code is (fairly) responsive and fits discretely well with every type of screen and device.<p>
+<p>The code is (fairly) responsive and fits very well with every type of screen and device.<p>
 
 </BR>
 <h3>Browser Compatibility:</h3>
