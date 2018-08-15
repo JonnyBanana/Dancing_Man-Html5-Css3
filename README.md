@@ -12,7 +12,11 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 
 
 <h3>Browser Compatibility:</h3>
-<p>Chrome, Opera, Mozilla</p>
+<p>Chrome, Opera, Mozilla.</p>
+
+<p>As usual Internet Explorer interprets the code in html5 very badly.</p>
+
+<p>In Safari, however, the 'audio player is not displayed and the background made of gradients is not read well (giving a background on red)</p>
 
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
 https://jonnybanana.github.io/wiki.html</p>
