@@ -5,3 +5,7 @@ Animation in Pure CSS3 and HTML5
 ![alt text](https://media.giphy.com/media/KXsvOPCe4DdwK21Kgu/giphy.gif)
 
 
+For this animation I started from this project:
+https://codepen.io/poziomq/pen/NbjZpG
+
+
