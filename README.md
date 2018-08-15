@@ -13,10 +13,7 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 <h3>Browser Compatibility:</h3>
 <p>Chrome, Opera, Mozilla.</p>
 
-<p>As usual Internet Explorer interprets the code in html5 very badly.</p>
-
-<p>In Safari, however, the audio player is not displayed and the background made of gradients </br>is not read well (giving a background on red)</p>
-
+<p>Incredibly even Internet Explorer can read the code without any problem....</BR> (some say there is a hand of the reptilians).</p>
 
 ![alt text](https://i.imgur.com/jIwHlS3.jpg)
 
