@@ -9,7 +9,7 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 
 <p>The code is (fairly) responsive and fits discretely well with every type of screen and device.<p>
 
-
+</BR>
 <h3>Browser Compatibility:</h3>
 <p>Chrome, Opera, Mozilla.</p>
 
