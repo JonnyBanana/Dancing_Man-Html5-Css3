@@ -5,7 +5,7 @@ Animation in Pure CSS3 and HTML5
 ![alt text](https://media.giphy.com/media/KXsvOPCe4DdwK21Kgu/giphy.gif)
 
 
-For this animation I started from this project:
+<p>For this animation I started from this project:</p>
 https://codepen.io/poziomq/pen/NbjZpG
 
 If you are interested in seeing my other works, I invite you to visit my wiki:
