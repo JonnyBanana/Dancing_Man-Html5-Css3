@@ -20,6 +20,8 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 
 ![alt text](https://i.imgur.com/jIwHlS3.jpg)
 
+</BR>
+
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
 https://jonnybanana.github.io/wiki.html</p>
 
