@@ -2,4 +2,6 @@
 Animation in Pure CSS3 and HTML5
 
 
-![alt text](https://media.giphy.com/media/xiOJmFQqpI459pQMbD/giphy.gif)
+![alt text](https://media.giphy.com/media/KXsvOPCe4DdwK21Kgu/giphy.gif)
+
+
