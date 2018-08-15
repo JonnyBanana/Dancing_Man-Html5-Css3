@@ -8,4 +8,6 @@ Animation in Pure CSS3 and HTML5
 For this animation I started from this project:
 https://codepen.io/poziomq/pen/NbjZpG
 
+If you are interested in seeing my other works, I invite you to visit my wiki:
+https://jonnybanana.github.io/wiki.html
 
