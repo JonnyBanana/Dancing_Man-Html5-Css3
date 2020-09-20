@@ -24,3 +24,10 @@ https://codepen.io/poziomq/pen/NbjZpG</p>
 <p>If you are interested in seeing my other works, i invite you to visit my wiki:
 https://jonnybanana.github.io/wiki.html</p>
 
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
